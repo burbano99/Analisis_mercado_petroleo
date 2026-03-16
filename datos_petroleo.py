@@ -2,10 +2,8 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-import glob 
-import openpyxl
 import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 df = pd.read_csv("oil_geopolitics_dataset_2010_2026.csv")
 print(df.columns)
