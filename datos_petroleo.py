@@ -2,7 +2,7 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-import matplotlib.pyplot as plt
+
 
 
 df = pd.read_csv("oil_geopolitics_dataset_2010_2026.csv")
