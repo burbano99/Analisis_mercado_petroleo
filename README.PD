@@ -1,0 +1,37 @@
+Oil analysis dashboard
+
+This project is an interactive dashboard built with Streamlit to analyze the global oil market. 
+It compares Brent and WTI crude oil prices, explores market volatility, and examines the impact 
+of geopolitical events on oil price movements.
+
+## Dataset
+
+The dataset includes historical oil market data from 2010–2026, including:
+
+- Brent crude oil price
+- WTI crude oil price
+- US Dollar Index (DXY)
+- Market volatility index (VIX)
+- Geopolitical Risk Index (GPR)
+- Oil price returns
+- Oil price volatility
+- Geopolitical event indicators
+
+## Dashboard Features
+
+The Streamlit dashboard includes:
+
+- Oil price comparison between Brent and WTI
+- Brent–WTI price spread analysis
+- Oil price volatility visualization
+- Correlation between Brent and WTI prices
+- Scatter plot analysis of oil prices
+- Identification of geopolitical events affecting oil markets
+- Interactive date filtering
+
+## Technologies
+
+- Python
+- Pandas
+- Plotly
+- Streamlit
